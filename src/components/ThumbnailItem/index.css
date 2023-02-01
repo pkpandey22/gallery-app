@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumbnail-logo {
+  width: 70px;
+}
+.btn {
+  background-color: transparent;
+  padding-left: 0px;
+  border: none;
+  margin: 8px;
+  margin-left: 0px;
+}

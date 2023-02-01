@@ -1,0 +1,29 @@
+/* Write your code here. */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container {
+  min-height: 100vh;
+  border: 1px #fff solid;
+  box-shadow: 1px 2px 2px 3px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.gallery-image {
+  width: 800px;
+}
+.heading {
+  font-size: 20px;
+}
+.para {
+  color: #64748b;
+}
+.thumbnail-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+}
